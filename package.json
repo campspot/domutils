@@ -18,7 +18,7 @@
     "htmlparser2"
   ],
   "dependencies": {
-    "dom-serializer": "0",
+    "dom-serializer": "campspot/dom-serializer#campspot-node-4",
     "domelementtype": "1"
   },
   "devDependencies": {
